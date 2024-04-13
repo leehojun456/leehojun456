@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+코딩하기 바쁜데 블로그나 쓸 시간 없습니다
 <!--
 **leehojun456/leehojun456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
