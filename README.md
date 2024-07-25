@@ -1,19 +1,32 @@
-### Hi there 👋
+# 👋 안녕하세요, 반갑습니다!
 
-뜬끔없이 C# 프로젝트가 있는 이유는 제가 하는 게임에서 C# 프로그래밍을 지원합니다
+저는 자바 스프링 백엔드 개발을 공부하고 있는 개발자입니다. 배우고 성장하며 효율적인 코드 작성을 할 수 있도록 노력 하고 있습니다.
 
-코틀린은 친구가 해보라해서 심심해서 해봤구요 타입스크립트는 이미 포트폴리오로 쓰기에 애매해진거 깟거 함 해보자 라는 생각으로 했습니다
-<!--
-**leehojun456/leehojun456** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 성장하는 개발자
 
-Here are some ideas to get you started:
+저는 특정 기술이나 도구에 얽매이지 않고, 새로운 것을 배우고 도전하는 것을 즐깁니다. 웹 분야뿐만 아니라 다양한 프로젝트를 통해 경험을 쌓고, 언제나 더 나은 개발자가 되기 위해 노력하고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ 기술 스택
+
+- **Frontend:** React, js, html, css
+- **Backend:** Java, Spring, Spring Boot
+- **Database:** MySQL(MariaDB), Oracle
+- **DevOps:** Docker (기초 수준)
+- **Others:** Git, RESTful API, 기본적인 Microservices Architecture
+
+## ✨ 프로젝트
+
+- [Project A](#): 간단한 설명.
+- [Project B](#): 간단한 설명.
+- [Project C](#): 간단한 설명.
+
+## 👨‍💻 학습
+
+저는 코드의 가독성과 유지보수성을 중요하게 생각합니다. 새로운 기술과 도구를 배우는 것을 즐기며, 이를 통해 더 나은 코드를 작성하는 것이 목표입니다.
+
+## 📫 연락처
+
+- **Email:** hppmm@naver.com , kcalb456@gmail.com
+- **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+
+언제든지 새로운 아이디어나 프로젝트에 대해 이야기 나누고 싶습니다. 감사합니다! 🙇‍♂️
